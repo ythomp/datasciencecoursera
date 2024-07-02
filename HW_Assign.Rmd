@@ -1,0 +1,11 @@
+---
+title: "FirstAssignment"
+author: "YvonneT"
+date: "2024-07-02"
+output: html_document
+---
+```{r}
+HelloWorld <- "This is a markdown"
+HelloWorld
+```
+
